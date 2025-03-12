@@ -1,6 +1,7 @@
+<p><img src="https://raw.githubusercontent.com/krishp-dev/krishp-dev/main/banner.png" align="right" width="100%"/></p>
 
 
-<h3 align="center">A passionate Software developer</h3>
+<h3 align="center">A Passionate Software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishp-dev&label=Profile%20views&color=0e75b6&style=flat" alt="krishp-dev" /> </p>
 
