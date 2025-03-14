@@ -5,9 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishp-dev&label=Profile%20views&color=0e75b6&style=flat" alt="krishp-dev" /> </p>
 - 🔭 I’m currently working on **AI BUG FIXER**
+
 - 🌱 I’m currently learning **Backend Development**
+
 - 👯 I’m looking to collaborate on **AI BUG FIXER**
--
+
 - 🤝 I’m looking for help with **AI BUG FIXER**
 
 - 👨‍💻 All of my projects are available at [https://github.com/krishp-dev](https://github.com/krishp-dev)
