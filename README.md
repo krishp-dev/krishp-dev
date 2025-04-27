@@ -165,4 +165,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishp-dev&show_icons=true&locale=en" alt="krishp-dev" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishp-dev&" alt="krishp-dev" /></p>
 
