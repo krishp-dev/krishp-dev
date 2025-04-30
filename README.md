@@ -159,7 +159,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
   </a>
  
-</p<p align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/ashishpatel26/ashishpatel26/master/.github/images/ai.gif" alt="AI Animation" width="500"/>
 </p>>
 
