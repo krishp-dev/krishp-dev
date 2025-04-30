@@ -5,7 +5,7 @@
 <h3 align="center">A Passionate AI/ML Enthusiast & Full-Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishp-dev&label=Profile%20views&color=0e75b6&style=flat" alt="krishp-dev" /> </p>
-- 🔭 I’m currently working on **AI BUG FIXER**
+- 🔭 I’m currently working on **AI ML Field**
 
 - 🌱 I’m currently learning **Backend Development**
 
