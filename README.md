@@ -34,7 +34,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 <p><img src="https://raw.githubusercontent.com/krishp-dev/krishp-dev/main/coding.png" align="right" alt="Movie Poster"/></p>
-<h1 align="left">Languages and Tools:</h1>
+<h1 align="left">💻 Technologies I Use</h1>
 <!-- Frontend -->
 <h3>Frontend</h3>
 <p align="left">
