@@ -2,7 +2,7 @@
 
 <p><img src="https://raw.githubusercontent.com/krishp-dev/krishp-dev/main/banner.png" align="right" width="100%"/></p>
 
-<h3 align="center">A Passionate AI/ML Enthusiasist</h3>
+<h3 align="center">A Passionate AI/ML Enthusiast & Full-Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishp-dev&label=Profile%20views&color=0e75b6&style=flat" alt="krishp-dev" /> </p>
 - 🔭 I’m currently working on **AI BUG FIXER**
@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/krishp-dev](https://github.com/krishp-dev)
 
-- 💬 Ask me about **Java , Python and frontend Development**
+- 💬 Ask me about **Java , Python Or frontend Development**
 
 - 📫 How to reach me **krishpatel110206@gmail.com**
 
