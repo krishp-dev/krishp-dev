@@ -1,3 +1,5 @@
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Krish Patel</h1>
+
 <p><img src="https://raw.githubusercontent.com/krishp-dev/krishp-dev/main/banner.png" align="right" width="100%"/></p>
 
 <h3 align="center">A Passionate AI/ML Enthusiasist</h3>
