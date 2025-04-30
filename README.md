@@ -159,9 +159,11 @@
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
   </a>
  
-</p>
+</p<p align="center">
+  <img src="https://raw.githubusercontent.com/ashishpatel26/ashishpatel26/master/.github/images/ai.gif" alt="AI Animation" width="500"/>
+</p>>
 
- 
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishp-dev&show_icons=true&locale=en&layout=compact" alt="krishp-dev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishp-dev&show_icons=true&locale=en" alt="krishp-dev" /></p>
