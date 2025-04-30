@@ -161,7 +161,7 @@
  
 <p align="center">
   <img src="https://raw.githubusercontent.com/ashishpatel26/ashishpatel26/master/.github/images/ai.gif" alt="AI Animation" width="500"/>
-</p>>
+</p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishp-dev&show_icons=true&locale=en&layout=compact" alt="krishp-dev" /></p>
