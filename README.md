@@ -1,17 +1,22 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Krish Patel</h1>
-
-
 <h3 align="center">A Passionate AI/ML Enthusiast & Full-Stack Developer</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishp-dev&label=Profile%20views&color=0e75b6&style=flat" alt="krishp-dev" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/krish-patel-95b32228b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krish patel" height="30" width="40" /></a>
-<a href="https://instagram.com/krishpatel11__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krishpatel11__" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/krishp11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="krishp11" height="30" width="40" /></a>
-<a href="https://discord.gg/Krish_p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Krish_p" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/krish-patel-95b32228b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/krishpatel11__" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.leetcode.com/krishp11" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://discord.gg/krish_p0638_57730" target="_blank"> 
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
 </p>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krishp-dev/krishp-dev/output/github-snake-dark.svg" />
