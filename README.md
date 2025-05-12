@@ -1,6 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Krish Patel</h1>
 
-<p><img src="https://raw.githubusercontent.com/krishp-dev/krishp-dev/main/banner.png" align="right" width="100%"/></p>
 
 <h3 align="center">A Passionate AI/ML Enthusiast & Full-Stack Developer</h3>
 
@@ -19,7 +18,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krishp-dev/krishp-dev/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
-<p><img src="https://raw.githubusercontent.com/krishp-dev/krishp-dev/main/coding.png" align="right" alt="Movie Poster"/></p>
 <h1 align="left">💻 Technologies I Use</h1>
 <!-- Frontend -->
 <h3>Frontend</h3>
