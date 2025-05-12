@@ -28,6 +28,8 @@
 <a href="https://www.leetcode.com/krishp11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="krishp11" height="30" width="40" /></a>
 <a href="https://discord.gg/Krish_p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Krish_p" height="30" width="40" /></a>
 </p>
+![Pro Developer](https://img.shields.io/badge/Status-Pro%20Developer-blueviolet)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krishp-dev/krishp-dev/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krishp-dev/krishp-dev/output/github-snake.svg" />
@@ -147,6 +149,5 @@
 
 <br/>
 
-<a href="https://github.com/krishp-dev">
-  <img alt="Krish's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=krishp-dev&theme=dracula&hide_border=true" />
-</a>
+[![Krish Patel's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=krishp-dev&bg_color=1e1e1e&color=ffffff&line=00bfff&point=ffffff&area=true&hide_border=true&custom_title=Krish%20Patel's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
