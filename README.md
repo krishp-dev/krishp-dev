@@ -1,7 +1,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Krish Patel</h1>
 <h3 align="center">A Passionate AI/ML Enthusiast & Full-Stack Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishp-dev&label=Profile%20views&color=0e75b6&style=flat" alt="krishp-dev" /> </p>
-<h3 align="left">Connect with me:</h3>
+<!-- HTML -->
+<h3 class="animated-heading">💬 Connect with Me</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/krish-patel-95b32228b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
