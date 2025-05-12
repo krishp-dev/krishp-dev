@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **krishpatel110206@gmail.com**
 
-- ⚡ I regularly watch **movies and series**
+- ⚡ I regularly read **Articles**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
