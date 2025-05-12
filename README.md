@@ -57,6 +57,18 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3C6B?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
+<h3>GenAI</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Transformers-FF4F00?style=for-the-badge&logo=transformers&logoColor=white" />
+  <img src="https://img.shields.io/badge/BERT-4BCF7A?style=for-the-badge&logo=bert&logoColor=white" />
+  <img src="https://img.shields.io/badge/GPT-1F9BFA?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/ViT-8F57A2?style=for-the-badge&logo=vision&logoColor=white" />
+  <img src="https://img.shields.io/badge/CLIP-586F84?style=for-the-badge&logo=clip&logoColor=white" />
+  <img src="https://img.shields.io/badge/Diffusion_Models-624D63?style=for-the-badge&logo=diffusion&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FF4F00?style=for-the-badge&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B8A?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gradio-6A1F8A?style=for-the-badge&logo=gradio&logoColor=white" />
+</p>
 
 <!-- Databases -->
 <h3>Databases</h3>
