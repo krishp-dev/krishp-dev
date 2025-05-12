@@ -106,27 +106,6 @@
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
   </a>
 </p>
-
-<!-- DevOps -->
-<h3>DevOps</h3>
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-</p>
-
 <!-- Databases -->
 <h3>Databases</h3>
 <p align="left">
@@ -162,9 +141,13 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishp-dev&show_icons=true&locale=en&layout=compact" alt="krishp-dev" /></p>
+<h1 align="left">📊 GitHub Stats</h1>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishp-dev&show_icons=true&locale=en" alt="krishp-dev" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krishp-dev&show_icons=true&theme=radical&border_radius=15&title_color=FDD835&icon_color=00E5FF&text_color=E0F7FA&bg_color=0D1117" alt="krishp-dev's GitHub stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishp-dev&layout=compact&theme=radical&border_radius=15&title_color=FDD835&text_color=E0F7FA&bg_color=0D1117" alt="Top Langs" height="180px"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishp-dev&" alt="krishp-dev" /></p>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishp-dev&theme=radical&background=0D1117&ring=FDD835&fire=FF6D00&currStreakLabel=00E5FF&border_radius=15" alt="GitHub Streak"/>
+</p>
