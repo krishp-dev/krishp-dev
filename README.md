@@ -140,3 +140,13 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishp-dev&theme=radical&background=0D1117&ring=FDD835&fire=FF6D00&currStreakLabel=00E5FF&border_radius=15" alt="GitHub Streak"/>
 </p>
+<a href="https://github.com/krishp-dev">
+  <img alt="Krish's GitHub Stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=krishp-dev&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img alt="Krish's GitHub Streak" height="180px" src="https://streak-stats.demolab.com?user=krishp-dev&theme=radical&hide_border=true" />
+</a>
+
+<br/>
+
+<a href="https://github.com/krishp-dev">
+  <img alt="Krish's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=krishp-dev&theme=dracula&hide_border=true" />
+</a>
