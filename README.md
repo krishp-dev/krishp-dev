@@ -28,7 +28,12 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krishp-dev/krishp-dev/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
-<h1 align="left">💻 Technologies I Use</h1>
+<h1 align="left">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" height="30" style="vertical-align: middle;" />
+  Technologies I Use
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" height="30" style="vertical-align: middle;" />
+</h1>
+
 <!-- Frontend -->
 <h3>Frontend</h3>
 <p align="left">
@@ -92,7 +97,7 @@
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
-
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="500" height="500" style="vertical-align: middle;" />
 
 <h1 align="left">📊 GitHub Stats</h1>
 
