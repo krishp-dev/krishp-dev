@@ -99,7 +99,7 @@
 </p>
 <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="500" height="500" style="vertical-align: middle;" />
 
-<h1 align="left">📊 GitHub Stats</h1>
+<h2 align="left">  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px"> GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=krishp-dev&show_icons=true&theme=radical&border_radius=15&title_color=FDD835&icon_color=00E5FF&text_color=E0F7FA&bg_color=0D1117" alt="krishp-dev's GitHub stats" height="180px"/>
@@ -114,4 +114,8 @@
 <br/>
 
 [![Krish Patel's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=krishp-dev&bg_color=1e1e1e&color=ffffff&line=00bfff&point=ffffff&area=true&hide_border=true&custom_title=Krish%20Patel's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div style="max-width: 100%; overflow-x: auto;" align="center">
+  <h2>🏆 GitHub Achievements</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=krishp-dev&theme=nord&no-frame=true&column=7&margin-w=15" alt="GitHub Trophies"/>
+</div>
 
