@@ -1,6 +1,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Krish Patel</h1>
 <h3 align="center">A Passionate AI/ML Enthusiast & Full-Stack Developer</h3>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Animated Bar Graph" width="100%" />
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishp-dev&label=Profile%20views&color=0e75b6&style=flat" alt="krishp-dev" /> </p>
+
 <h3 class="animated-heading">💬 Connect with Me</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/krish-patel-95b32228b" target="_blank">
