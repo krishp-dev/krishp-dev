@@ -115,6 +115,15 @@
 
 [![Krish Patel's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=krishp-dev&bg_color=1e1e1e&color=ffffff&line=00bfff&point=ffffff&area=true&hide_border=true&custom_title=Krish%20Patel's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <div style="max-width: 100%; overflow-x: auto;" align="center">
+  <div align="center" >
+<h1> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/133582566/331987097-1ee5934a-27be-4502-a7bf-e6a8c78fe5a3.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240702%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240702T170604Z&X-Amz-Expires=300&X-Amz-Signature=0e7b49fc7a322cb077dce50ed25ad73cacf85e0dbdcfe0cedcfa93a370fd805c&X-Amz-SignedHeaders=host&actor_id=100375390&key_id=0&repo_id=802760760" alt="Eyes" width="60" height="60" />CONTRIBUTIONS</h1>
+ </div>
+
+        
+
+<div align="center">
+<img  alt="Contributions" height="80%" width="80%cu" src="./profile-3d-contrib/profile-night-rainbow.svg">
+</div>
   <h2>🏆 GitHub Achievements</h2>
   <img src="https://github-profile-trophy.vercel.app/?username=krishp-dev&theme=nord&no-frame=true&column=7&margin-w=15" alt="GitHub Trophies"/>
 </div>
