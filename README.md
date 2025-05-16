@@ -130,6 +130,15 @@
 <div align="center">
   <h2>✍️ Developer Quote</h2>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-  
+   <br>
   <br>
 </div>
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=6C5CE7&height=120&section=footer" width="100%"/>
+
+  <img src="https://raw.githubusercontent.com/krishp-dev/cdn/main/animations/octomind.gif" width="180px" alt="OctoMind Animation" />
+</div>
+
+
+
