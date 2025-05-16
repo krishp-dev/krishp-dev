@@ -127,4 +127,9 @@
   <h2>🏆 GitHub Achievements</h2>
   <img src="https://github-profile-trophy.vercel.app/?username=krishp-dev&theme=nord&no-frame=true&column=7&margin-w=15" alt="GitHub Trophies"/>
 </div>
-
+<div align="center">
+  <h2>✍️ Developer Quote</h2>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  
+  <br>
+</div>
