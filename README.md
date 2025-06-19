@@ -5,7 +5,6 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishp-dev&label=Profile%20views&color=0e75b6&style=flat" alt="krishp-dev" /> </p>
-
 <h3 class="animated-heading">💬 Connect with Me</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/krish-patel-95b32228b" target="_blank">
