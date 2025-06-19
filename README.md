@@ -120,9 +120,7 @@
 
         
 
-<div align="center">
-<img  alt="Contributions" height="80%" width="80%cu" src="./profile-3d-contrib/profile-night-rainbow.svg">
-</div>
+
 
 <div align="center">
   <h2>✍️ Developer Quote</h2>
