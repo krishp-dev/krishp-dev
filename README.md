@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Animated Bar Graph" width="100%" />
 </p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishp-dev&label=Profile%20views&color=0e75b6&style=flat" alt="krishp-dev" /> </p>
 <h3 class="animated-heading">💬 Connect with Me</h3>
 <p align="left">
@@ -20,8 +19,6 @@
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krishp-dev/krishp-dev/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krishp-dev/krishp-dev/output/github-snake.svg" />
@@ -32,7 +29,6 @@
   Technologies I Use
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" height="30" style="vertical-align: middle;" />
 </h1>
-
 <!-- Frontend -->
 <h3>Frontend</h3>
 <p align="left">
@@ -45,8 +41,6 @@
   <img src="https://img.shields.io/badge/Chart.js-F6B500?style=for-the-badge&logo=chartjs&logoColor=white" />
   <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" />
 </p>
-
-
 <!-- Backend -->
 <h3>Backend</h3>
 <p align="left">
@@ -56,8 +50,6 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 </p>
-
-
 <!-- AI / ML -->
 <h3>AI / ML</h3>
 <p align="left">
@@ -68,7 +60,6 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3C6B?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
-
 <h3>GenAI</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Transformers-FF4F00?style=for-the-badge&logo=transformers&logoColor=white" />
@@ -81,7 +72,6 @@
   <img src="https://img.shields.io/badge/Streamlit-FF4B8A?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Gradio-6A1F8A?style=for-the-badge&logo=gradio&logoColor=white" />
 </p>
-
 <!-- Databases -->
 <h3>Databases</h3>
 <p align="left">
@@ -97,29 +87,17 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="500" height="500" style="vertical-align: middle;" />
-
 <h2 align="left">  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px"> GitHub Stats</h2>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=krishp-dev&show_icons=true&theme=radical&border_radius=15&title_color=FDD835&icon_color=00E5FF&text_color=E0F7FA&bg_color=0D1117" alt="krishp-dev's GitHub stats" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishp-dev&layout=compact&theme=radical&border_radius=15&title_color=FDD835&text_color=E0F7FA&bg_color=0D1117" alt="Top Langs" height="180px"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishp-dev&theme=radical&background=0D1117&ring=FDD835&fire=FF6D00&currStreakLabel=00E5FF&border_radius=15" alt="GitHub Streak"/>
 </p>
-
-
 <br/>
-
 [![Krish Patel's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=krishp-dev&bg_color=1e1e1e&color=ffffff&line=00bfff&point=ffffff&area=true&hide_border=true&custom_title=Krish%20Patel's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <div style="max-width: 100%; overflow-x: auto;" align="center">
-
-
-        
-
-
-
 <div align="center">
   <h2>✍️ Developer Quote</h2>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
@@ -127,11 +105,6 @@
   <br>
 </div>
 <div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=6C5CE7&height=120&section=footer" width="100%"/>
-
-  <img src="https://raw.githubusercontent.com/krishp-dev/cdn/main/animations/octomind.gif" width="180px" alt="OctoMind Animation" />
+ <img src="https://capsule-render.vercel.app/api?type=shark&color=6C5CE7&height=120&section=footer" width="100%"/>
+ <img src="https://raw.githubusercontent.com/krishp-dev/cdn/main/animations/octomind.gif" width="180px" alt="OctoMind Animation" />
 </div>
-
-
-
