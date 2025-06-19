@@ -96,9 +96,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishp-dev&theme=radical&background=0D1117&ring=FDD835&fire=FF6D00&currStreakLabel=00E5FF&border_radius=15" alt="GitHub Streak"/>
 </p>
 <br/>
+
 [![Krish Patel's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=krishp-dev&bg_color=1e1e1e&color=ffffff&line=00bfff&point=ffffff&area=true&hide_border=true&custom_title=Krish%20Patel's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <div style="max-width: 100%; overflow-x: auto;" align="center">
-<div align="center">
+
+  <div align="center">
   <h2>✍️ Developer Quote</h2>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
    <br>
